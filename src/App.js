@@ -39,8 +39,12 @@ function Card({ item }) {
         <span>(multiple)</span>
       )}
       <div className="options-parent">
-        {item.options.map((x) => (
-          <Options x={x} showAnswer={showAnswer} />
+        {item.options.map((x, index) => (
+          <Options
+            key={item.questionId + index}
+            x={x}
+            showAnswer={showAnswer}
+          />
         ))}
       </div>
     </div>
@@ -74,15 +78,14 @@ function App() {
     JSON.stringify(x).toLowerCase().includes(searchQuery)
   );
 
+  // Side Effects
   useEffect(() => {
     setCardData(data[currentSubject]);
   }, [currentSubject]);
 
   return (
     <div className="parent">
-      <div className="app-name" style={{ textAlign: "center" }}>
-        NPTEL Flash Cards
-      </div>
+      <div className="app-name">NPTEL Flash Cards</div>
 
       <div className="filters">
         <input

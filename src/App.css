@@ -1,10 +1,13 @@
 #root {
-  height: 100vh;
+  /* height: 100vh; */
+  background: #e2e1e0;
+}
+html {
   background: #e2e1e0;
 }
 .parent {
-  /* height: 100%; */
-  padding: 2rem;
+  /* height: 70%; */
+  padding-top: 2rem;
   /* border: 2px solid pink; */
 }
 .app-name {
@@ -12,6 +15,7 @@
   font-size: 2rem;
   font: 900 larger;
   margin-bottom: 2rem;
+  /* padding-top: 2rem; */
 }
 
 .App {
