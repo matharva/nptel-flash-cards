@@ -7,9 +7,12 @@ import "swiper/css";
 // Libraries
 import Select from "react-dropdown-select";
 import { Swiper, SwiperSlide } from "swiper/react";
+import SwiperCore, { Keyboard } from "swiper";
 
 // Data
 import { data } from "./data";
+
+SwiperCore.use([Keyboard]);
 
 const Options = ({ x, showAnswer }) => {
   return (
@@ -104,7 +107,7 @@ function App() {
       )}
 
       <div className="App">
-        <Swiper className="mySwiper">
+        <Swiper className="mySwiper" keyboard={{ enabled: true }}>
           {filteredItems.map((item) => {
             return (
               <SwiperSlide className="">
