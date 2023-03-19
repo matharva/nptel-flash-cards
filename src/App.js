@@ -74,8 +74,19 @@ function App() {
   const [cardData, setCardData] = useState(data["PSOSM"]);
   const [currentSubject, setCurrentSubject] = useState(options[0].label);
 
-  const filteredItems = cardData.filter((x) =>
-    JSON.stringify(x).toLowerCase().includes(searchQuery)
+  function shuffleFisherYates(array) {
+    let i = array.length;
+    while (i--) {
+      const ri = Math.floor(Math.random() * i);
+      [array[i], array[ri]] = [array[ri], array[i]];
+    }
+    return array;
+  }
+
+  const filteredItems = shuffleFisherYates(
+    cardData.filter((x) =>
+      JSON.stringify(x).toLowerCase().includes(searchQuery)
+    )
   );
 
   // Side Effects
