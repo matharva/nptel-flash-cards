@@ -2157,4 +2157,773 @@ export const PSOSM_DATA = [
       ],
     },
   ],
+  [
+    {
+      questionId: "pSSSPQqFzrGN.0.4538170616578048",
+      questionText: "Why is username a good candidate to link profiles? \n",
+      options: [
+        {
+          index: 1,
+          text: "Username is public",
+          isAnswer: 0.5,
+        },
+        {
+          index: 2,
+          text: "Username is heterogeneous",
+          isAnswer: -1,
+        },
+        {
+          index: 3,
+          text: "Username is homogeneous",
+          isAnswer: 0.5,
+        },
+        {
+          index: 4,
+          text: "Username cannot be changed",
+          isAnswer: -1,
+        },
+      ],
+    },
+    {
+      questionId: "pSSSPQqFzrGN.1.4886680100667392",
+      questionText: "Clustering coefficient is the measure of: ",
+      options: [
+        {
+          index: 1,
+          text: "Tendency of nodes to form clusters",
+          isAnswer: 1,
+        },
+        {
+          index: 2,
+          text: "If a cluster is possible or not",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "Edge similarity \n",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "None of the above\n",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "pSSSPQqFzrGN.2.6709225447751680",
+      questionText:
+        "Which network among the following has the maximum clustering coefficient, as discussed in the lecture? ",
+      options: [
+        {
+          index: 1,
+          text: "Instagram ",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "Facebook",
+          isAnswer: 1,
+        },
+        {
+          index: 3,
+          text: "Twitter",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "Gab",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "pSSSPQqFzrGN.3.5893307826176000",
+      questionText: "4chan is a / an: ",
+      options: [
+        {
+          index: 1,
+          text: "Anonymous social network\n",
+          isAnswer: 0.5,
+        },
+        {
+          index: 2,
+          text: "Online social network\n",
+          isAnswer: 0.5,
+        },
+        {
+          index: 3,
+          text: "Location based social network\n",
+          isAnswer: -1,
+        },
+        {
+          index: 4,
+          text: "Ephemeral social network\n",
+          isAnswer: -1,
+        },
+      ],
+    },
+    {
+      questionId: "pSSSPQqFzrGN.4.4789604310319104",
+      questionText: "On anonymous networks we can see who liked a post?",
+      options: [
+        {
+          index: 1,
+          text: "True",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "False",
+          isAnswer: 1,
+        },
+      ],
+    },
+    {
+      questionId: "pSSSPQqFzrGN.5.5050507333206016",
+      questionText: "Whisper provides: [select all applicable]",
+      options: [
+        {
+          index: 1,
+          text: "Archive of a user history\n",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "Links to personal information given user ID\n",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "Persistent Social links",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "Replies ",
+          isAnswer: 1,
+        },
+      ],
+    },
+    {
+      questionId: "pSSSPQqFzrGN.6.6368979078086656",
+      questionText:
+        "How to link the profile of a user on Facebook to 4chan? \n",
+      options: [
+        {
+          index: 1,
+          text: "By searching for user name and doing a semantic matching",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "Comparing friends of a user on both the networks\n",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "Both a and b",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "Impossible \n",
+          isAnswer: 1,
+        },
+      ],
+    },
+    {
+      questionId: "pSSSPQqFzrGN.7.4831842226667520",
+      questionText:
+        "We can use the visualization software Gephi to get Modularity of a given graph?\n",
+      options: [
+        {
+          index: 1,
+          text: "True",
+          isAnswer: 1,
+        },
+        {
+          index: 2,
+          text: "False ",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "pSSSPQqFzrGN.8.4954987528978432",
+      questionText:
+        "Which of the following layout options is NOT available in Gephi ?\n",
+      options: [
+        {
+          index: 1,
+          text: "Contraction ",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "Expansion",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "Random ",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "Classic",
+          isAnswer: 1,
+        },
+      ],
+    },
+    {
+      questionId: "pSSSPQqFzrGN.9.5294084860674048",
+      questionText: "Why is visualizing graphs necessary? \n",
+      options: [
+        {
+          index: 1,
+          text: "It gives quantitative measures that are otherwise impossible to find\n",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "Human deducible decision making ",
+          isAnswer: 1,
+        },
+        {
+          index: 3,
+          text: "To calculate the number of clusters\n",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "None of the above \n",
+          isAnswer: 0,
+        },
+      ],
+    },
+  ],
+  [
+    {
+      questionId: "W9LM4Wh8hHnk.0.4663906052603904",
+      questionText:
+        "Gephi allows the user to configure the following parameters:",
+      options: [
+        {
+          index: 1,
+          text: "filter nodes and edges",
+          isAnswer: 0.25,
+        },
+        {
+          index: 2,
+          text: "Add edges manually",
+          isAnswer: 0.25,
+        },
+        {
+          index: 3,
+          text: "calculate statistics of graph",
+          isAnswer: 0.25,
+        },
+        {
+          index: 4,
+          text: "Change node size and colour",
+          isAnswer: 0.25,
+        },
+      ],
+    },
+    {
+      questionId: "W9LM4Wh8hHnk.1.6035786252681216",
+      questionText:
+        '<div>“Nidhi Razdan received an offer to teach journalism at Harvard University. After a few months, she realized that it was not genuine and meant to access her personal information”.&nbsp;</div><div>Which of the following statements is/are true?</div><div><span style="white-space:pre">\t\t</span>i. It is a phishing attack.&nbsp;</div><div><span style="white-space:pre">\t\t</span>ii. It is a semantic attack.&nbsp;</div><div><br></div>',
+      options: [
+        {
+          index: 1,
+          text: "Only i is true",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "Only ii is true",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "Both are true",
+          isAnswer: 1,
+        },
+        {
+          index: 4,
+          text: "None",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "W9LM4Wh8hHnk.2.5677171528433664",
+      questionText:
+        "What are the potential reasons users change their usernames?",
+      options: [
+        {
+          index: 1,
+          text: "Suit a trending event",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "Gain / lose anonymity",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "Avoid boredom",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "All of the above",
+          isAnswer: 1,
+        },
+      ],
+    },
+    {
+      questionId: "W9LM4Wh8hHnk.3.5698409055387648",
+      questionText:
+        "What is correct, when talking about the username change frequency?\n",
+      options: [
+        {
+          index: 1,
+          text: "It is strongly and positively correlated to the indegree of the users",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "It is weakly and positively correlated to the indegree of the users\n",
+          isAnswer: 1,
+        },
+        {
+          index: 3,
+          text: "It is strongly and negatively correlated to the indegree of the users",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "It is weakly and negatively correlated to the indegree of the users\n",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "W9LM4Wh8hHnk.4.6270427698036736",
+      questionText:
+        '<div><span id="docs-internal-guid-608b4e58-7fff-a016-e650-6bded20f8e21"><div><div><span style="font-weight: bold;">True or False</span></div><div><br></div>“ Link farming will not be effective in increasing your social capital and influence.”<br></div></span></div><div><br></div>',
+      options: [
+        {
+          index: 1,
+          text: "True",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "False",
+          isAnswer: 1,
+        },
+      ],
+    },
+    {
+      questionId: "W9LM4Wh8hHnk.5.5690851791994880",
+      questionText:
+        "Which of the following option(s) is/are the correct syntax for reading a .csv file in python?",
+      options: [
+        {
+          index: 1,
+          text: "<div>import pandas as pd</div><div>data=pd.read_csv(\"filename.csv\",header = None, encoding='utf-8')</div><div><br></div>",
+          isAnswer: 0.5,
+        },
+        {
+          index: 2,
+          text: "<div>import pandas as pd</div><div>data=pd.read_csv(filename.csv)</div><div><br></div>",
+          isAnswer: -1,
+        },
+        {
+          index: 3,
+          text: "<div>import pandas as pd</div><div>file=\"filename.csv\"</div><div>data=pd.read_csv(file,header = None, encoding='utf-8')</div><div><br></div>",
+          isAnswer: 0.5,
+        },
+        {
+          index: 4,
+          text: "<div>import pandas as pd</div><div>data=pd.read_csv(filename.csv, header = None, encoding='utf-8')</div><div><br></div>",
+          isAnswer: -1,
+        },
+      ],
+    },
+    {
+      questionId: "W9LM4Wh8hHnk.6.5969487661105152",
+      questionText:
+        "Why are usernames important for linking users across social media platforms?",
+      options: [
+        {
+          index: 1,
+          text: "Usernames do not change ",
+          isAnswer: -1,
+        },
+        {
+          index: 2,
+          text: "Restrictions on character and length\n",
+          isAnswer: 0.5,
+        },
+        {
+          index: 3,
+          text: "User can have many usernames \n",
+          isAnswer: -1,
+        },
+        {
+          index: 4,
+          text: "Publicly available attribute.",
+          isAnswer: 0.5,
+        },
+      ],
+    },
+    {
+      questionId: "W9LM4Wh8hHnk.7.6673175102881792",
+      questionText:
+        'In the context of text processing, Match the following preprocessing steps with the reasons for carrying that preprocessing? Mark the most likely option.\n<br><br><img alt="" class="yui-img" onerror="this.src=\'https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs13/w9q8.jpg\'" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs13/w9q8.jpg" style="width: auto; height: 100px;" title="" type="image/svg+xml"><br>',
+      options: [
+        {
+          index: 1,
+          text: "i - 3, ii - 1, iii - 4, iv - 2",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "i - 3, ii - 4, iii - 1, iv - 2",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "i - 2, ii - 1, iii - 3, iv - 4",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "i - 2, ii - 4, iii - 3, iv - 1",
+          isAnswer: 1,
+        },
+      ],
+    },
+    {
+      questionId: "W9LM4Wh8hHnk.8.5560970101915648",
+      questionText: "Which of the following is an example of a 3-D Plot?\n",
+      options: [
+        {
+          index: 1,
+          text: "Scatter chart",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "Bar chart\n",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "Bubble chart\n",
+          isAnswer: 1,
+        },
+        {
+          index: 4,
+          text: "Histogram\n",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "W9LM4Wh8hHnk.9.6069083791949824",
+      questionText:
+        "Which among the following options can be used to create a DataFrame in Pandas?\n",
+      options: [
+        {
+          index: 1,
+          text: "A pandas series",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "An ndarray\n",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "A python dict\n",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "All of the above\n",
+          isAnswer: 1,
+        },
+      ],
+    },
+  ],
+  [
+    {
+      questionId: "egsim8jpURMi.0.5715451485618176",
+      questionText:
+        '<div>What are the different type of attacks that could happen:</div><div><span style="white-space:pre">\t</span>i. Pragmatic</div><div><span style="white-space:pre">\t</span>ii. Syntactic</div><div><span style="white-space:pre">\t</span>iii. Physical</div><div><br></div>',
+      options: [
+        {
+          index: 1,
+          text: "Only i and iii",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "Only iii",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "Only ii and iii",
+          isAnswer: 1,
+        },
+        {
+          index: 4,
+          text: "All of the above",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "egsim8jpURMi.1.6059097858768896",
+      questionText:
+        "What is the term used for Generating usernames and monetizing them, when necessary?\n",
+      options: [
+        {
+          index: 1,
+          text: "Username Sale\n",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "Username hopping\n",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "Username squatting\n",
+          isAnswer: 1,
+        },
+        {
+          index: 4,
+          text: "All of the above\n",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "egsim8jpURMi.2.5170195723714560",
+      questionText:
+        "What is meant by the Pareto distribution of username change?\n",
+      options: [
+        {
+          index: 1,
+          text: "20% users frequently change usernames in short intervals and 80% change rarely after long intervals\n",
+          isAnswer: 1,
+        },
+        {
+          index: 2,
+          text: "80% users frequently change usernames in short intervals and 20% change rarely after long intervals\n",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "20% users rarely change usernames in short intervals and 80% change frequently after long intervals",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "80% users rarely change usernames in short intervals and 20% change frequently after long intervals\n",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "egsim8jpURMi.3.5310933212069888",
+      questionText:
+        '<div>For anonymous social networks which of the following statements hold true?</div><div><span style="white-space:pre">\t</span>i. Clustering coefficient is different</div><div><span style="white-space:pre">\t</span>ii. User interact with strangers</div>',
+      options: [
+        {
+          index: 1,
+          text: "Only i",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "Only ii",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "Both i and ii",
+          isAnswer: 1,
+        },
+        {
+          index: 4,
+          text: "None of the above",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "egsim8jpURMi.4.4673043461308416",
+      questionText:
+        '<div>Which of the following statements are <b>false</b> about spammers:</div><div><span style="white-space:pre">\t</span>i. Users of less in-degree do not reciprocate to spammers</div><div><span style="white-space:pre">\t</span>ii. Users with small in-degree tend to follow back more.</div><div><span style="white-space:pre">\t</span>iii. Top link farmers have very high in-degree compared to spammers&nbsp;</div><div><br></div>',
+      options: [
+        {
+          index: 1,
+          text: "Only ii",
+          isAnswer: 1,
+        },
+        {
+          index: 2,
+          text: "Only i",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "Only iii",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "None of the above",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "egsim8jpURMi.5.5884603403862016",
+      questionText:
+        "<div>“For linking user profiles across different social media, having profile information from past will not help in improving the efficiency or accuracy”</div><div>Is this statement true or False?</div><div><br></div>",
+      options: [
+        {
+          index: 1,
+          text: "True",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "False",
+          isAnswer: 1,
+        },
+      ],
+    },
+    {
+      questionId: "egsim8jpURMi.6.5734145062338560",
+      questionText:
+        "Mark all the true statements with respect to Fake information on social media?",
+      options: [
+        {
+          index: 1,
+          text: "Truthful information comes onto social media faster than fake information",
+          isAnswer: -1,
+        },
+        {
+          index: 2,
+          text: "Various user and user’s network features can be used to classify fake information.",
+          isAnswer: 0.5,
+        },
+        {
+          index: 3,
+          text: "Community of users posting fake content are usually closed.",
+          isAnswer: 0.5,
+        },
+        {
+          index: 4,
+          text: "Techniques used to classify fake content on twitter would work equally well on facebook post, without any need for tweaking.",
+          isAnswer: -1,
+        },
+      ],
+    },
+    {
+      questionId: "egsim8jpURMi.7.5085533328375808",
+      questionText:
+        "Which of the following is/are Location-based social networks?",
+      options: [
+        {
+          index: 1,
+          text: "Gab",
+          isAnswer: -1,
+        },
+        {
+          index: 2,
+          text: "Foursquare",
+          isAnswer: 1,
+        },
+        {
+          index: 3,
+          text: "Koo",
+          isAnswer: -1,
+        },
+        {
+          index: 4,
+          text: "Whisper",
+          isAnswer: -1,
+        },
+      ],
+    },
+    {
+      questionId: "egsim8jpURMi.8.6173447068057600",
+      questionText:
+        'In the context of e-crime match the following:\n<br><img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs13/santho.jpg" style="width: 470px; height: 136px;" title=""><br>',
+      options: [
+        {
+          index: 1,
+          text: "1- iii ; 2 - iv ; 3 - ii ; 4 - i \n",
+          isAnswer: 1,
+        },
+        {
+          index: 2,
+          text: "1- iii ; 2 - i ; 3 - ii ; 4 - iv\n",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "1- i ; 2 - iv ; 3 - ii ; 4 - iii\n",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "1- i ; 2 - iii ; 3 - ii ; 4 - iv\n\n",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "egsim8jpURMi.9.5890273834434560",
+      questionText:
+        '<div>For matplotlib, which of the following parameters can be configured?</div><div><span style="white-space:pre">\t</span>i. Minor axis label</div><div><span style="white-space:pre">\t</span>ii. Intervals on both axis</div><div><span style="white-space:pre">\t</span>iii. Size of figure</div><div><span style="white-space:pre">\t</span>Iv. The number of subplots in a single figure</div><div><br></div>',
+      options: [
+        {
+          index: 1,
+          text: "Only i and ii",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "Only i",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "Only i, ii, iv",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "All of the above",
+          isAnswer: 1,
+        },
+      ],
+    },
+  ],
 ];

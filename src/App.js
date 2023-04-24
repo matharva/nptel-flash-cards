@@ -63,25 +63,25 @@ const options = [
     value: 3,
     label: "BA",
   },
-  {
-    value: 4,
-    label: "FSA",
-  },
+  // {
+  //   value: 4,
+  //   label: "FSA",
+  // },
 ];
+
+function shuffleFisherYates(array) {
+  let i = array.length;
+  while (i--) {
+    const ri = Math.floor(Math.random() * i);
+    [array[i], array[ri]] = [array[ri], array[i]];
+  }
+  return array;
+}
 
 function App() {
   const [searchQuery, setSearchQuery] = useState("");
   const [cardData, setCardData] = useState(data["PSOSM"]);
   const [currentSubject, setCurrentSubject] = useState(options[0].label);
-
-  function shuffleFisherYates(array) {
-    let i = array.length;
-    while (i--) {
-      const ri = Math.floor(Math.random() * i);
-      [array[i], array[ri]] = [array[ri], array[i]];
-    }
-    return array;
-  }
 
   const filteredItems = shuffleFisherYates(
     cardData.filter((x) =>
@@ -92,6 +92,25 @@ function App() {
   // Side Effects
   useEffect(() => {
     setCardData(data[currentSubject]);
+
+    const queries = [];
+
+    if (data)
+      data[currentSubject].forEach((item) => {
+        const query = `Explain the question in detail and give justification for all the options and why they are or aren't the right answer.
+
+${item.questionText}
+${item.options.map((x) => `${x.index}. ${x.text}`).join("\n")}
+
+Correct answer(s): ${item.options
+          .filter((x) => x.isAnswer > 0)
+          .map((x) => x.index)
+          .join(" ")}
+`;
+        // console.log(query);
+        queries.push(query);
+      });
+    console.log(queries);
   }, [currentSubject]);
 
   return (
@@ -114,6 +133,13 @@ function App() {
         />
       </div>
 
+      <div className="filters">
+        <button>Prev</button>
+        <button>Next</button>
+        <button>Aaya</button>
+        <button>Nahi aaya</button>
+      </div>
+
       {searchQuery && (
         <div style={{ textAlign: "center", marginBottom: "0.5rem" }}>
           Results: {filteredItems.length}
@@ -121,15 +147,17 @@ function App() {
       )}
 
       <div className="App">
-        <Swiper className="mySwiper" keyboard={{ enabled: true }}>
+        {/* <Swiper className="mySwiper" keyboard={{ enabled: true }}> */}
+        <div className="">
           {filteredItems.map((item) => {
             return (
-              <SwiperSlide className="">
-                <Card item={item} />
-              </SwiperSlide>
+              // <SwiperSlide className="">
+              <Card item={item} />
+              // </SwiperSlide>
             );
           })}
-        </Swiper>
+          {/* </Swiper> */}
+        </div>
       </div>
     </div>
   );

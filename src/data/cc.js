@@ -1735,4 +1735,1234 @@ export const CC_DATA = [
       ],
     },
   ],
+  [
+    {
+      questionId: "ZxJTqw2CxGDb.0.5376880505520128",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w8q1n.PNG" style="width: 602px;" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 1,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "ZxJTqw2CxGDb.1.6210053158207488",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w8q2n.PNG" style="width: 491px;" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 1,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "ZxJTqw2CxGDb.2.6434623576342528",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w8q3n.PNG" style="width: 361px;" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 1,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "ZxJTqw2CxGDb.3.6291071944884224",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w8q4n.PNG" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: 1,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "ZxJTqw2CxGDb.4.6427000546263040",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w8q5n.PNG" style="width: 641px;" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: 1,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "ZxJTqw2CxGDb.5.5636195866902528",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w8q6n.PNG" style="width: 632px;" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 1,
+        },
+      ],
+    },
+    {
+      questionId: "ZxJTqw2CxGDb.6.5419302568591360",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w8q7n.PNG" style="width: 505px;" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 0.5,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: -1,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: 0.5,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: -1,
+        },
+      ],
+    },
+    {
+      questionId: "ZxJTqw2CxGDb.7.6264758290874368",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w8q8n.PNG" style="width: 323px;" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 1,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "ZxJTqw2CxGDb.8.5414073982779392",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w8q9n.PNG" style="width: 570px;" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 1,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "ZxJTqw2CxGDb.9.5327899758952448",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w8q10n.PNG" style="width: 643px;" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: 1,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: 0,
+        },
+      ],
+    },
+  ],
+  [
+    {
+      questionId: "8fvdug1Ezbeg.0.4583988472053760",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w9q1.PNG" style="width: 640px;" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: 1,
+        },
+      ],
+    },
+    {
+      questionId: "8fvdug1Ezbeg.1.5881137314922496",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w9q2.PNG" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 1,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "8fvdug1Ezbeg.2.4974009620365312",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w9q3.PNG" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: 1,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "8fvdug1Ezbeg.3.4978482828804096",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w9q4.PNG" style="width: 649px;" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 1,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "8fvdug1Ezbeg.4.5452234901422080",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w9q5.PNG" style="width: 361px;" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: 1,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "8fvdug1Ezbeg.5.6731103927271424",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w9q6.PNG" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 1,
+        },
+      ],
+    },
+    {
+      questionId: "8fvdug1Ezbeg.6.5748065806319616",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w9q7.png" style="width: 448px;" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 0.5,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: -1,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: 0.5,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: -1,
+        },
+      ],
+    },
+    {
+      questionId: "8fvdug1Ezbeg.7.6059807954436096",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w9q8.PNG" style="width: 442px;" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 1,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "8fvdug1Ezbeg.8.6501649594449920",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w9q9.PNG" style="width: 285px;" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 1,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "8fvdug1Ezbeg.9.4517468018573312",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w9q10.PNG" style="width: 413px;" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: 1,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: 0,
+        },
+      ],
+    },
+  ],
+  [
+    {
+      questionId: "6rxCxqEiPbAl.0.4717756134457344",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w10q1.PNG" style="width: 422px;" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 1,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "6rxCxqEiPbAl.1.5843656041299968",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w10q2.PNG" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 1,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "6rxCxqEiPbAl.2.6232506542587904",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w10q3.PNG" style="width: 309px;" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 0.33,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 0.33,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: 0.34,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: -1,
+        },
+      ],
+    },
+    {
+      questionId: "6rxCxqEiPbAl.3.6359176134000640",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w10q4.PNG" style="width: 518px;" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: 1,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "6rxCxqEiPbAl.4.5951031565877248",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w10q5.PNG" style="width: 514px;" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 1,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "6rxCxqEiPbAl.5.6513981519298560",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w10q6.PNG" style="width: 652px;" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 1,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "6rxCxqEiPbAl.6.5280706087878656",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w10q7.PNG" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 1,
+        },
+      ],
+    },
+    {
+      questionId: "6rxCxqEiPbAl.7.4951801250447360",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w10q8.PNG" style="width: 648px;" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: 1,
+        },
+      ],
+    },
+    {
+      questionId: "6rxCxqEiPbAl.8.5801953787904000",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w10q9.PNG" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 1,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "6rxCxqEiPbAl.9.6077701157289984",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w10q10.PNG" style="width: 443px;" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: 1,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: 0,
+        },
+      ],
+    },
+  ],
+  [
+    {
+      questionId: "ab8cno7bYstW.0.6643007604916224",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w11q1n.PNG" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 1,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "ab8cno7bYstW.1.6083428764614656",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w11q2n.PNG" style="width: 655px;" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 1,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "ab8cno7bYstW.2.4602314023763968",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w11q3.png" style="width: 577px;" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 0.25,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 0.25,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: 0.25,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: 0.25,
+        },
+      ],
+    },
+    {
+      questionId: "ab8cno7bYstW.3.6640651110711296",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w11q4.PNG" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 1,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "ab8cno7bYstW.4.4999231111168000",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w11q5.PNG" style="width: 634px;" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 1,
+        },
+      ],
+    },
+    {
+      questionId: "ab8cno7bYstW.5.6125131018010624",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w11q6.png" style="width: 633px;" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: 1,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "ab8cno7bYstW.6.5725857436401664",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w11q7.PNG" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 1,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "ab8cno7bYstW.7.5728213930606592",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w11q8.PNG" style="width: 531px;" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 1,
+        },
+      ],
+    },
+    {
+      questionId: "ab8cno7bYstW.8.5165263977185280",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w11q9.PNG" style="width: 516px;" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 1,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "ab8cno7bYstW.9.6646378718035968",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w11q10n.png" style="width: 599px;" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 0.5,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 0.5,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: -1,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: -1,
+        },
+      ],
+    },
+  ],
+  [
+    {
+      questionId: "OUW4wlaOx7Ix.0.5322707512590336",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w12q1.PNG" style="width: 326px;" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 1,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "OUW4wlaOx7Ix.1.4986871403249664",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w12q2.PNG" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 1,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "OUW4wlaOx7Ix.2.5041232535879680",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w12q3.png" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: 1,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "OUW4wlaOx7Ix.3.5549821356670976",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w12q4.PNG" style="width: 534px;" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 1,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "OUW4wlaOx7Ix.4.5202692973002752",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w12q5.PNG" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: 1,
+        },
+      ],
+    },
+    {
+      questionId: "OUW4wlaOx7Ix.5.6167132442722304",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w12q6.png" style="width: 622px;" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: 1,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "OUW4wlaOx7Ix.6.4635027682361344",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w12q7.PNG" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 1,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "OUW4wlaOx7Ix.7.5604182489300992",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w12q8.PNG" style="width: 519px;" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 1,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "OUW4wlaOx7Ix.8.6328592879845376",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w12q9.PNG" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: 1,
+        },
+      ],
+    },
+    {
+      questionId: "OUW4wlaOx7Ix.9.5409260163301376",
+      questionText:
+        '<img alt="" class="yui-img" src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc23_cs42/w12q10.PNG" title="">',
+      options: [
+        {
+          index: 1,
+          text: "a.",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "b.",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "c.",
+          isAnswer: 1,
+        },
+        {
+          index: 4,
+          text: "d.",
+          isAnswer: 0,
+        },
+      ],
+    },
+  ],
 ];

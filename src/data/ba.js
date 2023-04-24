@@ -1898,4 +1898,1364 @@ export const BA_DATA = [
       ],
     },
   ],
+  [
+    {
+      questionId: "xWw30EGkgmLs.0.6596095338086400",
+      questionText:
+        "Which of the following partitions are utilized by pruning steps of decision trees?",
+      options: [
+        {
+          index: 1,
+          text: "Training partition",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "Validation partition",
+          isAnswer: 1,
+        },
+        {
+          index: 3,
+          text: "Test partition",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "Any part of the data",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "xWw30EGkgmLs.1.5203619574448128",
+      questionText:
+        "Which of the following statements is not true about recursive partitioning steps of decision trees?",
+      options: [
+        {
+          index: 1,
+          text: "Recursive partitioning results in non-overlapping multi-dimensional rectangles",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "Recursive partitioning results in smaller and smaller rectangular regions",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "Recursive partitioning continues till heterogeneous groups are reached",
+          isAnswer: 1,
+        },
+        {
+          index: 4,
+          text: "Recursive partitioning results in zero error",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "xWw30EGkgmLs.2.5331279155822592",
+      questionText:
+        "What will be the gini index value when there are two classes with equal representation of each class?",
+      options: [
+        {
+          index: 1,
+          text: "0",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "1",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "-1",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "0.5",
+          isAnswer: 1,
+        },
+      ],
+    },
+    {
+      questionId: "xWw30EGkgmLs.3.4700569113985024",
+      questionText:
+        "How many terminal nodes will be estimated in a decision tree with ‘n’ number of decision nodes?",
+      options: [
+        {
+          index: 1,
+          text: "n",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "(n-1)",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "(n+1)",
+          isAnswer: 1,
+        },
+        {
+          index: 4,
+          text: "Can’t say",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "xWw30EGkgmLs.4.6296650365009920",
+      questionText:
+        "Which of the following R functions can be used to filter overlapping observations in training and validation partitions?",
+      options: [
+        {
+          index: 1,
+          text: "replace",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "intersect",
+          isAnswer: 1,
+        },
+        {
+          index: 3,
+          text: "rpart.control",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "split",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "xWw30EGkgmLs.5.6367428741693440",
+      questionText:
+        "<div>Which of the following is used as the basis for finding a suitable split-value of a predictor?<br></div><div><br></div>",
+      options: [
+        {
+          index: 1,
+          text: "Impurity increase",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "Impurity reduction",
+          isAnswer: 1,
+        },
+        {
+          index: 3,
+          text: "size",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "None of the above",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "xWw30EGkgmLs.6.6634884945149952",
+      questionText:
+        "<div>&nbsp;Which of the following data mining tasks can be modeled using decision trees?</div><div><br></div>",
+      options: [
+        {
+          index: 1,
+          text: "Classification task only",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "Prediction task only",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "Both classification and prediction task",
+          isAnswer: 1,
+        },
+        {
+          index: 4,
+          text: "None of the above",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "xWw30EGkgmLs.7.5528591698231296",
+      questionText:
+        "Which of the following steps is used to fit the decision tree to the predictors’ information and not to the noise?",
+      options: [
+        {
+          index: 1,
+          text: "Splitting",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "Pruning",
+          isAnswer: 1,
+        },
+        {
+          index: 3,
+          text: "Partitioning",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "None of the above",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "xWw30EGkgmLs.8.5298153683681280",
+      questionText:
+        "<div>Compute the entropy measure value for the following case:</div><div>There are 12 students who had taken a test. But only 9 students could pass the test and the remaining failed.</div><div><br></div>",
+      options: [
+        {
+          index: 1,
+          text: "0.727",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "1.20",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "0.189",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "0.811",
+          isAnswer: 1,
+        },
+      ],
+    },
+    {
+      questionId: "xWw30EGkgmLs.9.6151374706835456",
+      questionText:
+        "<div>While growing decision trees, nodes are formed for each recursive partition within the multi-dimensional space of predictors. The final nodes of fully grown decision tree corresponding to the final homogenous groups are referred as:<br></div><div><br></div>",
+      options: [
+        {
+          index: 1,
+          text: "Decision nodes",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "Root node",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "Terminal nodes",
+          isAnswer: 1,
+        },
+        {
+          index: 4,
+          text: "None of the above",
+          isAnswer: 0,
+        },
+      ],
+    },
+  ],
+  [
+    {
+      questionId: "xpH6bQnjH7aY.0.6176685339181056",
+      questionText:
+        "What is the range of gini values for the binary classification tasks?",
+      options: [
+        {
+          index: 1,
+          text: "{0, 0.5}&nbsp;",
+          isAnswer: 1,
+        },
+        {
+          index: 2,
+          text: "{0, (m-1)/m}",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "{0, 1}",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "{0, m/(m-1)}",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "xpH6bQnjH7aY.1.4845065638248448",
+      questionText:
+        "What is the&nbsp; range of entropy values for the binary classification tasks?",
+      options: [
+        {
+          index: 1,
+          text: "{0, log2(m)}",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "{0, 0.5}",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "{0, 1}",
+          isAnswer: 1,
+        },
+        {
+          index: 4,
+          text: "None of the above.",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "xpH6bQnjH7aY.2.4713124242915328",
+      questionText:
+        "What will be the entropy measure value when there are two classes with equal representation of each class?",
+      options: [
+        {
+          index: 1,
+          text: "0",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "1",
+          isAnswer: 1,
+        },
+        {
+          index: 3,
+          text: "-1",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "0.5",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "xpH6bQnjH7aY.3.5428906312597504",
+      questionText:
+        "Which of the following are true about both linear and logistic regression?",
+      options: [
+        {
+          index: 1,
+          text: "One or more independent variables",
+          isAnswer: 1,
+        },
+        {
+          index: 2,
+          text: "Same estimation method",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "Single dependent variable",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "None of the above",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "xpH6bQnjH7aY.4.6683954006982656",
+      questionText:
+        "In binary classification, a cutoff value of 0.5 means that cases with an estimated probability, P(Y=1) &gt; 0.5 are classified to:",
+      options: [
+        {
+          index: 1,
+          text: "Class 1",
+          isAnswer: 1,
+        },
+        {
+          index: 2,
+          text: "Class 0",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "Both a and b",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "None of the above",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "xpH6bQnjH7aY.5.6198137773883392",
+      questionText:
+        "Which of the following are not true about logistic regression?",
+      options: [
+        {
+          index: 1,
+          text: "Least squares method is used",
+          isAnswer: 1,
+        },
+        {
+          index: 2,
+          text: "Maximum likelihood method is used",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "Instead of using outcome variable (y) in the model, a function of y, called logit is used",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "None of the above",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "xpH6bQnjH7aY.6.5573615169306624",
+      questionText:
+        "Which of the following can be true when we add a new variable in the linear regression model?",
+      options: [
+        {
+          index: 1,
+          text: "R-squared and adjusted R-squared both increase",
+          isAnswer: 1,
+        },
+        {
+          index: 2,
+          text: "R-squared increases and adjusted R-squared decreases",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "R-squared decreases and adjusted R-squared decreases",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "R-squared decreases and adjusted R-squared increases",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "xpH6bQnjH7aY.7.5351513820495872",
+      questionText:
+        "<div>Which of the following is correct about the training of linear regression models based on below given statements?</div><div>I: Overfitting is more likely if we have less data</div><div>II: Overfitting is more likely when the set of all possible mappings of inputs to outputs is small.</div><div><br></div>",
+      options: [
+        {
+          index: 1,
+          text: "Both are False",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "I is False and II is True",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "I is True and II is False",
+          isAnswer: 1,
+        },
+        {
+          index: 4,
+          text: "Both are True",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "xpH6bQnjH7aY.8.6030175414779904",
+      questionText:
+        "Which type of data is typically modeled by regression trees?",
+      options: [
+        {
+          index: 1,
+          text: "Linear",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "Nonlinear",
+          isAnswer: 1,
+        },
+        {
+          index: 3,
+          text: "Can’t say",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "None of the above",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "xpH6bQnjH7aY.9.6232990896619520",
+      questionText:
+        "Which type of relationship between the input attribute and output attribute is assumed in simple regression?",
+      options: [
+        {
+          index: 1,
+          text: "Linear",
+          isAnswer: 1,
+        },
+        {
+          index: 2,
+          text: "Quadratic",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "Inverse",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "None of the above",
+          isAnswer: 0,
+        },
+      ],
+    },
+  ],
+  [
+    {
+      questionId: "VdyCzB96VEC1.0.6411674689470464",
+      questionText:
+        "Which of the following tasks are suitable for logistic regression?",
+      options: [
+        {
+          index: 1,
+          text: "Profiling",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "Classification",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "Both of them",
+          isAnswer: 1,
+        },
+        {
+          index: 4,
+          text: "None of the above",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "VdyCzB96VEC1.1.5724225982169088",
+      questionText:
+        "Which of the following estimation methods are used in logistic regression?",
+      options: [
+        {
+          index: 1,
+          text: "Ordinary least squares",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "Maximum likelihood",
+          isAnswer: 1,
+        },
+        {
+          index: 3,
+          text: "Partial least squares",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "None of the above",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "VdyCzB96VEC1.2.6441402574045184",
+      questionText:
+        "Which type of output values are predicted using logistic regression?",
+      options: [
+        {
+          index: 1,
+          text: "Continuous",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "Discrete",
+          isAnswer: 1,
+        },
+        {
+          index: 3,
+          text: "Range",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "None of the above",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "VdyCzB96VEC1.3.4667595307876352",
+      questionText:
+        "Which of the following are true about logistic regression?",
+      options: [
+        {
+          index: 1,
+          text: "Logit = Log(odds)",
+          isAnswer: 0.33,
+        },
+        {
+          index: 2,
+          text: "Logit = Log(P/(1-P))",
+          isAnswer: 0.33,
+        },
+        {
+          index: 3,
+          text: "P = Logistic(x)",
+          isAnswer: 0.34,
+        },
+        {
+          index: 4,
+          text: "None of the above",
+          isAnswer: -1,
+        },
+      ],
+    },
+    {
+      questionId: "VdyCzB96VEC1.4.6723682051817472",
+      questionText:
+        "<div>Let us consider the following logistic regression model:</div><div>P(y =1 | x, w) = g(w0 + w1*x), where g(z) is the logistic function.</div><div>What would be the range of P values in such a case?</div><div><br></div>",
+      options: [
+        {
+          index: 1,
+          text: "(-inf, 0)<br>",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "(0, 1)",
+          isAnswer: 1,
+        },
+        {
+          index: 3,
+          text: "(-inf, inf)",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "(0, inf)",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "VdyCzB96VEC1.5.4993556347879424",
+      questionText:
+        "<div>What is the range of the logit function?<br></div><div><br></div>",
+      options: [
+        {
+          index: 1,
+          text: "(-inf, 0)",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "(0, 1)",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "(-inf, inf)",
+          isAnswer: 1,
+        },
+        {
+          index: 4,
+          text: "(0, inf)",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "VdyCzB96VEC1.6.5990955463737344",
+      questionText:
+        "Which of the following is true about binary logistic regression?",
+      options: [
+        {
+          index: 1,
+          text: "Dependent variable is continuous.",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "Dependent variable has two classes.",
+          isAnswer: 1,
+        },
+        {
+          index: 3,
+          text: "There is no dependent variable.",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "None of the above.",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "VdyCzB96VEC1.7.6112914482659328",
+      questionText:
+        "Which of the following is considered a suitable goodness of fit metric for logistic regression?",
+      options: [
+        {
+          index: 1,
+          text: "SSE",
+          isAnswer: -1,
+        },
+        {
+          index: 2,
+          text: "Deviance",
+          isAnswer: 0.5,
+        },
+        {
+          index: 3,
+          text: "Multiple R squared",
+          isAnswer: -1,
+        },
+        {
+          index: 4,
+          text: "1 - Deviance/Null Deviance",
+          isAnswer: 0.5,
+        },
+        {
+          index: 5,
+          text: "None of the above",
+          isAnswer: -1,
+        },
+      ],
+    },
+    {
+      questionId: "VdyCzB96VEC1.8.5146113586233344",
+      questionText:
+        "Which of the following statements is true about logistic regression?",
+      options: [
+        {
+          index: 1,
+          text: "Model parameters in the logit model are additive",
+          isAnswer: 0.5,
+        },
+        {
+          index: 2,
+          text: "Model parameters in the logit model are multiplicative",
+          isAnswer: -1,
+        },
+        {
+          index: 3,
+          text: "Model parameters in the odds model are additive",
+          isAnswer: -1,
+        },
+        {
+          index: 4,
+          text: "Model parameters in the odds model are multiplicative",
+          isAnswer: 0.5,
+        },
+      ],
+    },
+    {
+      questionId: "VdyCzB96VEC1.9.6072585142403072",
+      questionText: "Which of the following correctly defines the logit?",
+      options: [
+        {
+          index: 1,
+          text: "Logical operation",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "Natural logarithm of odds ratio",
+          isAnswer: 1,
+        },
+        {
+          index: 3,
+          text: "Natural logarithm of weighted inputs",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "None of the above",
+          isAnswer: 0,
+        },
+      ],
+    },
+  ],
+  [
+    {
+      questionId: "TbC1IEeD4Ih6.0.5559475264552960",
+      questionText: "What is the backpropagation algorithm?",
+      options: [
+        {
+          index: 1,
+          text: "It is another name given to the curvy function in the perceptron",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "It is the transmission of error back through the network to adjust the inputs",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "It is the transmission of error back through the network to allow weights to be adjusted so that the network can learn",
+          isAnswer: 1,
+        },
+        {
+          index: 4,
+          text: "None of the above",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "TbC1IEeD4Ih6.1.6114360410243072",
+      questionText: "Which of the following defines neural networks?",
+      options: [
+        {
+          index: 1,
+          text: "Complex linear functions with many parameters",
+          isAnswer: 0.33,
+        },
+        {
+          index: 2,
+          text: "Complex nonlinear functions with many parameters",
+          isAnswer: 0.33,
+        },
+        {
+          index: 3,
+          text: "Complex discrete functions with many parameters",
+          isAnswer: 0.34,
+        },
+        {
+          index: 4,
+          text: "None of the above",
+          isAnswer: -1,
+        },
+      ],
+    },
+    {
+      questionId: "TbC1IEeD4Ih6.2.5379312392339456",
+      questionText:
+        "Which of the following can be an application of neural network?",
+      options: [
+        {
+          index: 1,
+          text: "Sales forecasting",
+          isAnswer: 0.33,
+        },
+        {
+          index: 2,
+          text: "Fact checking",
+          isAnswer: 0.33,
+        },
+        {
+          index: 3,
+          text: "Risk analysis",
+          isAnswer: 0.34,
+        },
+        {
+          index: 4,
+          text: "None of the above",
+          isAnswer: -1,
+        },
+      ],
+    },
+    {
+      questionId: "TbC1IEeD4Ih6.3.5561831322550272",
+      questionText:
+        "Which of the following is true about multilayer feedforward neural networks?",
+      options: [
+        {
+          index: 1,
+          text: "Not fully connected",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "Same transfer or activation function in each layer",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "Only one hidden layer is allowed",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "None of the above",
+          isAnswer: 1,
+        },
+      ],
+    },
+    {
+      questionId: "TbC1IEeD4Ih6.4.6274314857349120",
+      questionText:
+        "Which of the following does not happen in the backpropagation algorithm?",
+      options: [
+        {
+          index: 1,
+          text: "Error in output is propagated backwards to update weight values",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "Error in output is propagated backwards to update bias values",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "Backpropagation is done iteratively for many epochs",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "None of the above",
+          isAnswer: 1,
+        },
+      ],
+    },
+    {
+      questionId: "TbC1IEeD4Ih6.5.6644325014831104",
+      questionText:
+        "Which of the following is not true about multilayer feedforward neural networks?",
+      options: [
+        {
+          index: 1,
+          text: "Consists of three main types of layers",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "Input layer typically has input nodes equal to the number of input features",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "Hidden layers are allowed a fixed number of nodes only",
+          isAnswer: 1,
+        },
+        {
+          index: 4,
+          text: "None of the above",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "TbC1IEeD4Ih6.6.5926869182971904",
+      questionText:
+        "Which of the following is the most commonly used neural network architecture among feedforward networks?",
+      options: [
+        {
+          index: 1,
+          text: "Multi layer perceptron",
+          isAnswer: 1,
+        },
+        {
+          index: 2,
+          text: "Perceptron",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "Radial basis function network",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "None of the above",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "TbC1IEeD4Ih6.7.5358524750626816",
+      questionText:
+        "For which of the following neural networks, information does not move only in one direction?",
+      options: [
+        {
+          index: 1,
+          text: "Multi layer perceptron",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "Feedforward network",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "Recurrent neural network",
+          isAnswer: 1,
+        },
+        {
+          index: 4,
+          text: "None of the above",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "TbC1IEeD4Ih6.8.5303979806818304",
+      questionText:
+        "Which of the following is the recommended data normalization in neural networks?",
+      options: [
+        {
+          index: 1,
+          text: "Z-score normalization or standardization",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "Min-max normalization",
+          isAnswer: 1,
+        },
+        {
+          index: 3,
+          text: "Both of them",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "None of the above",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "TbC1IEeD4Ih6.9.6297938318327808",
+      questionText: "What is the transfer function?",
+      options: [
+        {
+          index: 1,
+          text: "It is used to add noise in the feedforward neural networks",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "It is the transmission of error back through the network to adjust the inputs",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "It is applied on the weighted sum of incoming values to produce the outgoing values for a layer",
+          isAnswer: 1,
+        },
+        {
+          index: 4,
+          text: "None of the above",
+          isAnswer: 0,
+        },
+      ],
+    },
+  ],
+  [
+    {
+      questionId: "NBtZFNZcLVsB.0.5052272778674176",
+      questionText:
+        "Which of the following data mining tasks should not be conducted using discriminant analysis?",
+      options: [
+        {
+          index: 1,
+          text: "Prediction",
+          isAnswer: 1,
+        },
+        {
+          index: 2,
+          text: "Classification",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "Clustering",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "None of the above",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "NBtZFNZcLVsB.1.4906774050635776",
+      questionText:
+        "Which of the following is true about linear classification functions used in discriminant analysis?",
+      options: [
+        {
+          index: 1,
+          text: "Provide the basis for discrimination of records into classes",
+          isAnswer: 0.33,
+        },
+        {
+          index: 2,
+          text: "Linear functions of predictors that maximize ratio of between-class variability to within-class variability",
+          isAnswer: 0.33,
+        },
+        {
+          index: 3,
+          text: "Coefficients of linear discriminant are optimized w.r.t class separation",
+          isAnswer: 0.34,
+        },
+        {
+          index: 4,
+          text: "None of the above",
+          isAnswer: -1,
+        },
+      ],
+    },
+    {
+      questionId: "NBtZFNZcLVsB.2.6656103962640384",
+      questionText:
+        "Which of the following plot can be helpful in assessing class separation for discriminant analysis?",
+      options: [
+        {
+          index: 1,
+          text: "Histogram",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "Scatter plot",
+          isAnswer: 1,
+        },
+        {
+          index: 3,
+          text: "Bar chart",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "None of the above",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "NBtZFNZcLVsB.3.5020030660509696",
+      questionText:
+        "What is the maximum number of needed discriminant functions when m classes are present?",
+      options: [
+        {
+          index: 1,
+          text: "m",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "m-1",
+          isAnswer: 1,
+        },
+        {
+          index: 3,
+          text: "m/2",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "None of the above",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "NBtZFNZcLVsB.4.4795446485057536",
+      questionText:
+        "Which of the following is true assumption about correlation structure between predictors in discriminant analysis?",
+      options: [
+        {
+          index: 1,
+          text: "Different for each class",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "Same for each class",
+          isAnswer: 1,
+        },
+        {
+          index: 3,
+          text: "Does not matter",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "None of the above",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "NBtZFNZcLVsB.5.6369780303396864",
+      questionText:
+        "Which of the following are true about discriminant analysis and linear regression?",
+      options: [
+        {
+          index: 1,
+          text: "Same estimation technique",
+          isAnswer: 1,
+        },
+        {
+          index: 2,
+          text: "Coefficients are optimized using same mechanism",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "Different estimation technique",
+          isAnswer: 0,
+        },
+        {
+          index: 4,
+          text: "None of the above",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "NBtZFNZcLVsB.6.6317031796768768",
+      questionText:
+        "Which of the following updating mechanisms yields more accurate results in neural networks?",
+      options: [
+        {
+          index: 1,
+          text: "Batch updating",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "Both a and b",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "Case updating",
+          isAnswer: 1,
+        },
+        {
+          index: 4,
+          text: "None of the above",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "NBtZFNZcLVsB.7.5182307745398784",
+      questionText:
+        "Which of the following is true about updating mechanisms in neural networks?",
+      options: [
+        {
+          index: 1,
+          text: "Case updating is done after each case or record is run through the network.",
+          isAnswer: 0.5,
+        },
+        {
+          index: 2,
+          text: "Batch updating is done after each case or record is run through the network.",
+          isAnswer: -1,
+        },
+        {
+          index: 3,
+          text: "Batch updating is done after all records are run through the network.",
+          isAnswer: 0.5,
+        },
+        {
+          index: 4,
+          text: "None of the above",
+          isAnswer: -1,
+        },
+      ],
+    },
+    {
+      questionId: "NBtZFNZcLVsB.8.4560434800099328",
+      questionText: "What is the basic advantage of data normalization step?",
+      options: [
+        {
+          index: 1,
+          text: "Smaller values improve the model",
+          isAnswer: 0,
+        },
+        {
+          index: 2,
+          text: "Values falling in a smaller range improve the model",
+          isAnswer: 0,
+        },
+        {
+          index: 3,
+          text: "Computing performance is better",
+          isAnswer: 1,
+        },
+        {
+          index: 4,
+          text: "None of the above",
+          isAnswer: 0,
+        },
+      ],
+    },
+    {
+      questionId: "NBtZFNZcLVsB.9.6078254566342656",
+      questionText:
+        "Which stopping criteria are typically used in the training of neural networks?",
+      options: [
+        {
+          index: 1,
+          text: "Small incremental change in bias and weight values",
+          isAnswer: 0.33,
+        },
+        {
+          index: 2,
+          text: "Rate of change of error function values reaches a required threshold",
+          isAnswer: 0.33,
+        },
+        {
+          index: 3,
+          text: "Limit on no. of runs is reached",
+          isAnswer: 0.34,
+        },
+        {
+          index: 4,
+          text: "None of the above",
+          isAnswer: -1,
+        },
+      ],
+    },
+  ],
 ];
