@@ -133,13 +133,6 @@ Correct answer(s): ${item.options
         />
       </div>
 
-      <div className="filters">
-        <button>Prev</button>
-        <button>Next</button>
-        <button>Aaya</button>
-        <button>Nahi aaya</button>
-      </div>
-
       {searchQuery && (
         <div style={{ textAlign: "center", marginBottom: "0.5rem" }}>
           Results: {filteredItems.length}
@@ -147,17 +140,15 @@ Correct answer(s): ${item.options
       )}
 
       <div className="App">
-        {/* <Swiper className="mySwiper" keyboard={{ enabled: true }}> */}
-        <div className="">
+        <Swiper className="mySwiper" keyboard={{ enabled: true }}>
           {filteredItems.map((item) => {
             return (
-              // <SwiperSlide className="">
-              <Card item={item} />
-              // </SwiperSlide>
+              <SwiperSlide className="">
+                <Card item={item} />
+              </SwiperSlide>
             );
           })}
-          {/* </Swiper> */}
-        </div>
+        </Swiper>
       </div>
     </div>
   );
